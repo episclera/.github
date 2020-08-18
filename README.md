@@ -1,6 +1,11 @@
-# .github
-
+<div align="center">
+  <h1>
+      .github
+  </h1>
+</div>
 These are the [default community health files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization) for the Episclera organization on GitHub.
+
+[![GitHub](https://img.shields.io/github/license/episclera/.github)](https://github.com/episclera/.github/blob/master/LICENSE)
 
 ## Contributing
 
