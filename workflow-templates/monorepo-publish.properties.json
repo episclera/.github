@@ -1,6 +1,6 @@
 {
-  "name": "Publish Packages Workflow",
-  "description": "Publish Packages CI workflow template.",
+  "name": "Monorepo Publish Packages Workflow",
+  "description": "Monorepo Publish Packages CI workflow template.",
   "iconName": "monorepo-publish-icon",
   "filePatterns": ["lerna.json$"]
 }
