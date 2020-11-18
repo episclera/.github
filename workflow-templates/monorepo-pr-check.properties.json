@@ -1,0 +1,6 @@
+{
+  "name": "PR Check Workflow",
+  "description": "PR Check CI workflow template.",
+  "iconName": "monorepo-pr-check-icon",
+  "filePatterns": ["lerna.json$"]
+}
