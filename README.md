@@ -1,10 +1,14 @@
 <div align="center">
+  <img style="max-width:100%;" height="200"
+    src="https://raw.githubusercontent.com/episclera/.github/master/logo.png">
   <h1>
       .github
   </h1>
+  <p> 
+    These are the <a href="https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization">default community health files</a> for the Episclera organization on GitHub.
+  </p>
 </div>
-These are the [default community health files](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization) for the Episclera organization on GitHub.
-<br /><br />
+<br/>
 
 [![GitHub](https://img.shields.io/github/license/episclera/.github)](https://github.com/episclera/.github/blob/master/LICENSE)
 
